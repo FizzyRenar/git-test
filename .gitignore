@@ -1,4 +1,36 @@
-/.BackUP
-/assets
-/runtime
-/.idea
+# IDE
+## Phpstorm project files
+.idea
+## Netbeans project files
+nbproject
+
+# Mac DS_Store Files
+.DS_Store
+
+# Node.js modules
+node_modules
+
+# SASS
+.sass-cache
+
+# Bower
+bower_components
+
+
+/upload
+
+# Log, backup, htaccess
+.htaccess*
+*.log
+*_log
+*.txt
+
+# archive
+*.dt
+*.tar*
+*.gz*
+*.tgz
+*.zip
+*.rar
+*.dat
+*.7z
